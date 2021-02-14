@@ -1,4 +1,4 @@
-Digits classification with Multilayer perceptron and Support Vector Machine with MATLAB
+Digits classification with Multilayer perceptron and Support Vector Machine using MATLAB
 
 
 Linear SVM,
