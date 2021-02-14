@@ -2,5 +2,4 @@ Digits classification with Multi layer perceptron and Support Vector Machine wit
 
 
 Linear SVM
--
 Gaussian kernel RBF
